@@ -1,21 +1,11 @@
 # 👋 Salom, men @jasurallanazarov!
 
-🚀 Men **Kiberxavfsizlik Mutaxassisi** va Pentesting bilan shug‘ullanaman.  
-💻 Linux, Python, va Web Security – mening asosiy qurollarim.  
-🔒 Maqsadim – tizimlarni xavfsiz qilish va zaifliklarni topish.  
+🚀 Men Kiberxavfsizlik Mutaxassisi | Pentesting | Linux & Python  
 
 ---
 
-### 🛠 Texnologiyalar & Qobiliyatlar
-- **Programming:** Python, Bash, JavaScript  
-- **OS:** Kali Linux, Ubuntu  
-- **Security Tools:** Nmap, Hydra, Burp Suite, Metasploit  
-- **Areas:** Pentesting, Network Security, Vulnerability Assessment
+### 📊 GitHub Statlar
+![Jasur GitHub stats](https://github-readme-stats.vercel.app/api?username=jasurallanazarov&show_icons=true&theme=radical)
 
----
-
-### 📫 Bog‘lanish
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jasurallanazarov)  
-- 📧 Email: jasur@example.com  
-
-> “Xavfsizlikni ta’minlash – bu kodlash emas, ongni mustahkamlash.” 🔐
+### ⚡ Eng oxirgi activity
+![Jasur GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jasurallanazarov&theme=dark)
