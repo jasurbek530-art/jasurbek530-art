@@ -1,43 +1,172 @@
-# 👋 Salom, men @jasurallanazarov!
+<h1 align="center">Assalomu alaykum 👋</h1>
 
-### 🔐 Kiberxavfsizlik Mutaxassisi | Pentester | Ethical Hacker  
-
-Men **Jasur**, tizimlar, tarmoqlar va web ilovalardagi zaifliklarni aniqlash va tuzatish bo‘yicha professional.  
-Dunyodagi eng mashhur **security tools** va metodlarni bilaman, real pentestlarni amalga oshirishga tayyorman.  
-
----
-
-## 🛠 Asboblar va Texnologiyalar
-
-### 💻 Programming & Scripting
-- Python | Bash | JavaScript | Go | PowerShell  
-
-### 🖥 Operating Systems
-- Kali Linux | Ubuntu | Parrot OS | Windows Security Labs  
-
-### 🔍 Pentesting Tools
-- Nmap, Wireshark, Burp Suite, Hydra, Medusa, Metasploit, SQLmap, Nikto, OWASP ZAP, Aircrack-ng, John the Ripper  
-
-### 🌐 Web & Network Security
-- Vulnerability Assessment | Exploit Development | Network Scanning | Wi-Fi Security | Web Application Hacking  
-
-### 📊 Reporting & Analysis
-- Git, GitHub Actions, Markdown, JSON, Excel Reports  
+<p align="center">
+Men <b>Jasur Allanazarov</b> 🚀 <br>
+Python Developer | Cybersecurity Enthusiast
+</p>
 
 ---
 
-## 📊 GitHub Statlar
-![Jasur GitHub stats](https://github-readme-stats.vercel.app/api?username=jasurallanazarov&show_icons=true&theme=radical)
+## 🧑‍💻 Men haqimda
 
-![Jasur GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jasurallanazarov&theme=dark)
+- 🔐 Kiberxavfsizlikga qiziqaman
+- 🐍 Python dasturchiman
+- 🐧 Kali Linux ishlataman
+- 🌍 "Sayohatchi" travel website ustida ishlayapman
 
 ---
 
-## ⚡ Fikr va Motivatsiya
-> “Xavfsizlikni ta’minlash – bu kodlash emas, ongni mustahkamlash.” 🔐  
+## 🚀 Texnologiyalar
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,linux,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistikam
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JasurAllanazarov&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Eng ko‘p ishlatilgan tillar
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasurAllanazarov&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 📫 Bog‘lanish
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jasurallanazarov)  
-- 📧 Email: jasur@example.com  
+
+- Telegram: @username
+- Instagram: <h1 align="center">Assalomu alaykum 👋</h1>
+
+<p align="center">
+Men <b>Jasur Allanazarov</b> 🚀 <br>
+Python Developer | Cybersecurity Enthusiast
+</p>
+
+---
+
+## 🧑‍💻 Men haqimda
+
+- 🔐 Kiberxavfsizlikga qiziqaman
+- 🐍 Python dasturchiman
+- 🐧 Kali Linux ishlataman
+- 🌍 "Sayohatchi" travel website ustida ishlayapman
+
+---
+
+## 🚀 Texnologiyalar
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,linux,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistikam
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JasurAllanazarov&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Eng ko‘p ishlatilgan tillar
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasurAllanazarov&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Bog‘lanish
+
+- Telegram: @username
+- Instagram: <h1 align="center">Assalomu alaykum 👋</h1>
+
+<p align="center">
+Men <b>Jasur Allanazarov</b> 🚀 <br>
+Python Developer | Cybersecurity Enthusiast
+</p>
+
+---
+
+## 🧑‍💻 Men haqimda
+
+- 🔐 Kiberxavfsizlikga qiziqaman
+- 🐍 Python dasturchiman
+- 🐧 Kali Linux ishlataman
+- 🌍 "Sayohatchi" travel website ustida ishlayapman
+
+---
+
+## 🚀 Texnologiyalar
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,linux,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistikam
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JasurAllanazarov&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Eng ko‘p ishlatilgan tillar
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasurAllanazarov&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Bog‘lanish
+
+- Telegram:  https://t.me/AllanazarovJasurbek
+- Instagram: https://www.instagram.com/887_uzzzzz/
+
+---
+
+⭐ Agar loyihalarim yoqsa **Star bosishni unutmang**
+
+---
+
+⭐ Agar loyihalarim yoqsa **Star bosishni unutmang**
+
+---
+
+⭐ Agar loyihalarim yoqsa **Star bosishni unutmang**
