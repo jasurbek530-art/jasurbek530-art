@@ -1,24 +1,23 @@
-<h1 align="center">Assalomu alaykum 👋</h1>
+<h1 align="center">
 
-<p align="center">
-Men <b>Jasur Allanazarov</b> 🚀 <br>
-Python Developer | Cybersecurity Enthusiast
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Assalomu+alaykum;Jasur+Allanazarov;Python+Developer;Cybersecurity+Enthusiast" />
+
+</h1>
 
 ---
 
 ## 🧑‍💻 Men haqimda
 
-- 🔐 Kiberxavfsizlikga qiziqaman
-- 🐍 Python dasturchiman
-- 🐧 Kali Linux ishlataman
-- 🌍 "Sayohatchi" travel website ustida ishlayapman
+- 🐍 Python Developer  
+- 🔐 Cybersecurity ga qiziqaman  
+- 🐧 Kali Linux ishlataman  
+- 🌍 Sayohatchi web loyihasi ustida ishlayapman  
 
 ---
 
 ## 🚀 Texnologiyalar
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,linux,html,css,js,git,github,vscode" />
 </p>
 
@@ -27,7 +26,7 @@ Python Developer | Cybersecurity Enthusiast
 ## 📊 GitHub Statistikam
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JasurAllanazarov&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -35,137 +34,18 @@ Python Developer | Cybersecurity Enthusiast
 ## 🔥 Eng ko‘p ishlatilgan tillar
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasurAllanazarov&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📫 Bog‘lanish
 
-- Telegram: @username
-- Instagram: <h1 align="center">Assalomu alaykum 👋</h1>
+📷 Instagram  
+https://www.instagram.com/887_uzzzzz/
 
-<p align="center">
-Men <b>Jasur Allanazarov</b> 🚀 <br>
-Python Developer | Cybersecurity Enthusiast
-</p>
-
----
-
-## 🧑‍💻 Men haqimda
-
-- 🔐 Kiberxavfsizlikga qiziqaman
-- 🐍 Python dasturchiman
-- 🐧 Kali Linux ishlataman
-- 🌍 "Sayohatchi" travel website ustida ishlayapman
-
----
-
-## 🚀 Texnologiyalar
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,linux,html,css,js,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Statistikam
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JasurAllanazarov&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Eng ko‘p ishlatilgan tillar
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasurAllanazarov&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📫 Bog‘lanish
-
-- Telegram: @username
-- Instagram: <h1 align="center">Assalomu alaykum 👋</h1>
-
-<p align="center">
-Men <b>Jasur Allanazarov</b> 🚀 <br>
-Python Developer | Cybersecurity Enthusiast
-</p>
-
----
-
-## 🧑‍💻 Men haqimda
-
-- 🔐 Kiberxavfsizlikga qiziqaman
-- 🐍 Python dasturchiman
-- 🐧 Kali Linux ishlataman
-- 🌍 "Sayohatchi" travel website ustida ishlayapman
-
----
-
-## 🚀 Texnologiyalar
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,linux,html,css,js,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Statistikam
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JasurAllanazarov&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Eng ko‘p ishlatilgan tillar
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasurAllanazarov&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📫 Bog‘lanish
-
-- Telegram:  https://t.me/AllanazarovJasurbek
-- Instagram: https://www.instagram.com/887_uzzzzz/
-
----
-
-⭐ Agar loyihalarim yoqsa **Star bosishni unutmang**
-
----
-
-⭐ Agar loyihalarim yoqsa **Star bosishni unutmang**
+📩 Telegram  
+https://t.me/AllanazarovJasurbek
 
 ---
 
