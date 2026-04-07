@@ -1,62 +1,59 @@
-# 👋 ASSALOMU ALAYKUM
-
-<h1 align="center">Allanazarov Jasur</h1>
-
-<p align="center">
-💻 Backend Developer | 🔐 Cybersecurity Enthusiast  
-</p>
+}
+<h1 align="center">ALLANAZAROV JASUR</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Welcome+to+my+GitHub;Cybersecurity+Learner;Creative+Problem+Solver" />
+Django Backend | Kiberxavfsizlik | Pentesting
 </p>
 
 ---
 
-## 🧠 Men haqimda
-
-- 🧩 Muammolarga kreativ yondashaman  
-- 🔐 Kiberxavfsizlikka qiziqaman  
-- ⚙️ Backend dasturlash bilan shug‘ullanaman  
+Kiberxavfsizlik va web backend sohasida amaliy bilimlarni rivojlantirayotgan mutaxassis. Har bir loyiha — kreativ yondashuv va samaradorlik asosida bajariladi.
 
 ---
 
-## 🛠 Texnologiyalar
+## Asosiy texnologiyalar:
 
-### 🔐 Cybersecurity
+### Kiberxavfsizlik va Pentesting:
 Nmap
 BurpSuite
-Wireshark
 Metasploit
-KaliLinux
+Wireshark
+Nessus
+OSINT
+Kali
 
-### ⚙️ Backend
+Sqlmap
+John
+Hydra
+Sublist3r
+Aircrack
+
+---
+
+### Backend & DevOps:
 Python
 Django
-FastAPI
+DRF
 PostgreSQL
+Docker
+Linux
+Nginx
 
-### 🎨 Frontend
+Git
+FastAPI
+Redis
+Celery
+
+---
+
+### Frontend:
 HTML
 CSS
 JavaScript
 
 ---
 
-## 📊 GitHub Stats
+## Aloqa uchun:
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 📞 Aloqa
-
-- 📱 Telegram: @uzb_b887  
-- 📧 Email: allanazarovjasur36@gmail.com  
-
----
-
-## ⚡ Fun Fact
-> "Kodni buzishdan oldin uni tushun!
+- Telegram: @uzb_b887  
+- Email: allanazarovjasur36@gmail.co
