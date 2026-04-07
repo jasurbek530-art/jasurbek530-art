@@ -4,8 +4,7 @@
   <b>Developer • Learner • Creator</b>
 </p>
 
-<img align="right" height="200" src="https://i.imgur.com/OLpARp2.jpeg"/>
-
+https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fslaviklozben.medium.com%2Ftop-5-programming-languages-in-2022-6f4a2f266362&ved=0CBUQjRxqFwoTCJjt6Mmd3JMDFQAAAAAdAAAAABAe&opi=89978449
 ---
 
 ## 🔥 About Me
