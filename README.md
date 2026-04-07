@@ -1,4 +1,3 @@
-}
 <h1 align="center">ALLANAZAROV JASUR</h1>
 
 <p align="center">
@@ -33,7 +32,7 @@ Aircrack
 ### Backend & DevOps:
 Python
 Django
-DRF
+Django REST
 PostgreSQL
 Docker
 Linux
@@ -56,4 +55,4 @@ JavaScript
 ## Aloqa uchun:
 
 - Telegram: @uzb_b887  
-- Email: allanazarovjasur36@gmail.co
+- Email: allanazarovjasur36@gmail.com
